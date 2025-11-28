@@ -1,1 +1,1 @@
-# BelajarDasarJavaScript
+# Belajar Dasar Pemrograman JavaScript
